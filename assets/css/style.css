@@ -1,4 +1,4 @@
-/* TASK: consolidate and remove redundancies */
+/* consolidate and remove redundancies */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -25,8 +25,7 @@ body {
     color: #d9dcd6;
 }
 
-/* Added CSS styling to HTML */
-.header section {
+.header div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -34,9 +33,11 @@ body {
     font-size: 20px;
 }
 
-/* Condensed .header section ul formating */
-.header section ul {
+.header div ul {
     list-style-type: none;
+}
+
+.header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -86,7 +87,6 @@ p {
     background-color: #2589bd;
 }
 /* make one class "benefits" and use the class multiple times to remove redunancies */
-
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
