@@ -16,3 +16,6 @@ https://www.w3schools.com
 
 ## Deployed Site Links
 
+https://gracefern00.github.io/grace-semantic-bonanza/
+https://github.com/gracefern00/grace-semantic-bonanza
+
